@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "program vs",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.embeddedhtml": "html",
+			"iostream": "cpp",
+			"string": "cpp",
+			"array": "cpp",
+			"ostream": "cpp"
+		},
+		"java.debug.settings.onBuildFailureProceed": true,
+		"liveServer.settings.multiRootWorkspaceName": "webprac"
+	}
+}
