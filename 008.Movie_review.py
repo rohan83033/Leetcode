@@ -1,7 +1,4 @@
-
 from typing import List
-
-
 class MovieRentingSystem:
 
     def __init__(self, n: int, entries: List[List[int]]):
