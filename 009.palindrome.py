@@ -1,9 +1,9 @@
 to = "maham"
 p = False
-length = len(to)
+q = len(to)
 
-for i in range(length):
-    if to[i] != to[length - i - 1]:
+for i in range(q):
+    if to[i] != to[q - i - 1]:
         p = True
         break
 
