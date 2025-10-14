@@ -1,3 +1,4 @@
+from typing import Counter
 class Solution(object):
     def removeAnagrams(self, words):
         n = len(words)
